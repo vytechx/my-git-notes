@@ -1,0 +1,2 @@
+Github is a platform that works with git, providing a distrubuted version control system for developers to share and track their code in a reliable and efficient way. <br>
+With github developers can track the history of changes in their codebase, merge code from separate developers and review each others code.

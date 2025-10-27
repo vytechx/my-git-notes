@@ -1,0 +1,5 @@
+-  Git and Github
+-  lifecycle of changes, using add,commit, how they work
+-  branching,merning, push/pull
+-  Remote repos, cloning
+-  Code reviews, pull requests and best practices
